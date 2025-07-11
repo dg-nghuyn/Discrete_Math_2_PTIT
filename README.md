@@ -57,7 +57,7 @@ Below is the full list of implemented problems, grouped by topic:
 
 If you have any questions, suggestions, or would like to contribute:
 
-- GitHub: dg-nghuyn
-- Email: huyendtn.b23at139@gmail.com
+- GitHub: [dg-nghuyn](https://github.com/dg-nghuyn)
+- Email: huyendtn18.cdc@gmail.com
 
 ---
